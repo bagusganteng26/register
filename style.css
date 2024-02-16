@@ -1,0 +1,15 @@
+.container {
+width: 635px;
+height: 661px;
+top: 267px;
+left: 383px;
+border-radius: 25px;
+;
+  }
+  .container-background {
+    color:#819AA8;
+  }
+  
+  .form-container {
+    margin-top: 20px;
+  }
